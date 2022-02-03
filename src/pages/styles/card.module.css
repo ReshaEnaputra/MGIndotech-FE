@@ -1,0 +1,37 @@
+.container {
+    margin-bottom: 10px;
+}
+
+.header {
+    margin-bottom: 30px;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.idContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.ids {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(235, 235, 235);
+    width: 100px;
+    border-radius: 10px;
+    height: 100px;
+}
+
+.dataContainer {
+    margin-left: 20px;
+}
+
+.button {
+    margin-left: 10px;
+}
